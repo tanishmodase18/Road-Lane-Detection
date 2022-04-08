@@ -33,15 +33,11 @@ ROI plays a significant role in detecting the computational complexity of lane i
 A technique known as [Hough Transform](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html) can be used to separate the features of various shapes within a picture. This method is commonly used to identify arbitrary forms such as straight lines, circles, ellipses, and so on. After the canny edges detection, the Hough Transform is applied to images in order to retrieve the image pixels that are wanted. The Hough Transform is utilized in this system to detect the coordinates of lane line from the image data.
 
 ## Results
-**Input**
+**Input Video**
 
 [![image](https://user-images.githubusercontent.com/85211871/162406619-4374b980-db22-4b72-a960-ced9988ce025.png)](https://user-images.githubusercontent.com/85211871/162403552-dc05d3d8-8568-48b7-af31-5bdd120d3b87.mp4)
 
-
-https://user-images.githubusercontent.com/85211871/162403552-dc05d3d8-8568-48b7-af31-5bdd120d3b87.mp4
-
-
-**Output**
+**Output Video**
 
 [![image](https://user-images.githubusercontent.com/85211871/162398025-200bcbd9-8805-4fd0-87ac-61e325020b84.png)](https://user-images.githubusercontent.com/85211871/162403568-288f451b-9903-4115-8e82-278c477282b6.mp4)
 
