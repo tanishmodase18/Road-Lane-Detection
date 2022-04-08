@@ -45,15 +45,15 @@ A technique known as [Hough Transform](https://docs.opencv.org/3.4/d9/db0/tutori
 
 **The results of the system in different conditions are shown in the figure below:**
 
-**a. Day**
+a. Day
 
 ![image](https://user-images.githubusercontent.com/85211871/162398156-2f0a3570-aa23-4ef8-82ae-b5b4c7673abf.png)
 
-**b. Night**
+b. Night
 
 ![image](https://user-images.githubusercontent.com/85211871/162398025-200bcbd9-8805-4fd0-87ac-61e325020b84.png)
 
-**c. Rainy Weather**
+c. Rainy Weather
 
 ![image](https://user-images.githubusercontent.com/85211871/162398044-1dfb39cc-a8be-4435-9652-0e7c130ff92d.png)
 
