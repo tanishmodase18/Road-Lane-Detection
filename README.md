@@ -1,4 +1,4 @@
-# Road-Lane-Detection
+# Road Lane Detection
 *A Computer Vision Project in Python*
 
 # Overview
