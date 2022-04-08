@@ -43,8 +43,7 @@ A technique known as [Hough Transform](https://docs.opencv.org/3.4/d9/db0/tutori
 [![image](https://user-images.githubusercontent.com/85211871/162398025-200bcbd9-8805-4fd0-87ac-61e325020b84.png)](https://user-images.githubusercontent.com/85211871/162403568-288f451b-9903-4115-8e82-278c477282b6.mp4)
 *(Click on image for video)*
 
-
-The results of the system in different conditions are shown in the figure below:
+**The results of the system in different conditions are shown in the figure below:**
 
 **a. Day**
 
