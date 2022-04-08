@@ -36,15 +36,16 @@ A technique known as [Hough Transform](https://docs.opencv.org/3.4/d9/db0/tutori
 **Input Video**
 
 [![image](https://user-images.githubusercontent.com/85211871/162406619-4374b980-db22-4b72-a960-ced9988ce025.png)](https://user-images.githubusercontent.com/85211871/162403552-dc05d3d8-8568-48b7-af31-5bdd120d3b87.mp4)
-(Click on image for video)
+*(Click on image for video)*
 
 **Output Video**
 
 [![image](https://user-images.githubusercontent.com/85211871/162398025-200bcbd9-8805-4fd0-87ac-61e325020b84.png)](https://user-images.githubusercontent.com/85211871/162403568-288f451b-9903-4115-8e82-278c477282b6.mp4)
-(Click on image for video)
+*(Click on image for video)*
 
 
 The results of the system in different conditions are shown in the figure below:
+
 **a. Day**
 
 ![image](https://user-images.githubusercontent.com/85211871/162398156-2f0a3570-aa23-4ef8-82ae-b5b4c7673abf.png)
